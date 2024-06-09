@@ -1,0 +1,54 @@
+Host orange1
+        HostName 192.168.31.134
+        User ysfeng
+Host grey1
+        HostName 192.168.31.220
+        User ysfeng
+Host orange
+        HostName 10.82.60.184
+        Port 4060
+        User ysfeng
+Host orange_yellow
+        HostName 101.133.156.130
+        User ysfeng
+        Port 40602
+Host grey
+        HostName 192.168.31.220
+        User ysfeng
+Host grey_yellow
+        HostName 101.133.156.130
+        User ysfeng
+        Port 40601
+Host black
+        HostName 10.82.77.106
+        User ysfeng
+Host black_yellow
+        HostName 101.133.156.130
+        Port 40600
+        User ysfeng
+Host red
+        HostName 10.82.77.108
+        User ysfeng
+Host red_yellow
+        HostName 101.133.156.130
+        Port 40606
+        User ysfeng
+Host yellow
+        HostName 101.133.156.130
+        User ysfeng
+Host purple
+        HostName 10.82.77.106
+        User ysfeng
+        Port 40603
+Host purple_yellow
+        HostName 101.133.156.130
+        Port 40603
+        User ysfeng
+Host orange_out
+        HostName 47.95.202.80
+        Port 40608
+        User ysfeng
+Host red_out
+        HostName 47.95.202.80
+        Port 40606
+        User ysfeng
